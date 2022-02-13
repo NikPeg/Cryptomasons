@@ -214,7 +214,7 @@ export default (() => {
 					empty-min-width="64px"
 				>
 					<Text margin="0px 0px 0px 0px" font="normal 300 18px/1.5 --fontFamily-googleInter" color="--light">
-						(02 - 04)
+						4268.6506
 					</Text>
 				</Box>
 				<Box
@@ -294,7 +294,7 @@ export default (() => {
 						md-font="normal 700 52px/1.1 &quot;Inter&quot;, sans-serif"
 						sm-font="normal 700 38px/1.1 &quot;Inter&quot;, sans-serif"
 					>
-						Fashion
+						Tyler
 					</Text>
 				</Box>
 			</Box>
@@ -339,7 +339,7 @@ export default (() => {
 						width="100%"
 						md-font="normal 700 52px/1.1 &quot;Inter&quot;, sans-serif"
 					>
-						Beauty
+						Stewards
 					</Text>
 				</Box>
 			</Box>
@@ -384,7 +384,7 @@ export default (() => {
 						width="100%"
 						md-font="normal 700 52px/1.1 &quot;Inter&quot;, sans-serif"
 					>
-						Culture
+						Deacons
 					</Text>
 				</Box>
 			</Box>
@@ -429,7 +429,7 @@ export default (() => {
 						md-font="normal 700 52px/1.1 &quot;Inter&quot;, sans-serif"
 						sm-font="normal 700 38px/1.1 &quot;Inter&quot;, sans-serif"
 					>
-						View on Magazine
+						Secretary
 					</Text>
 				</Box>
 			</Box>
@@ -474,7 +474,142 @@ export default (() => {
 						md-font="normal 700 52px/1.1 &quot;Inter&quot;, sans-serif"
 						sm-font="normal 700 38px/1.1 &quot;Inter&quot;, sans-serif"
 					>
-						Consultant
+						Treasurer
+					</Text>
+				</Box>
+			</Box>
+			<Box
+				flex-wrap="wrap"
+				margin="0px 0px 46px 0px"
+				empty-min-width="64px"
+				empty-min-height="64px"
+				empty-border-width="1px"
+				empty-border-style="solid"
+				empty-border-color="LightGray"
+				display="flex"
+			>
+				<Box
+					width="35%"
+					sm-width="20%"
+					empty-min-width="64px"
+					empty-min-height="64px"
+					empty-border-width="1px"
+					empty-border-style="solid"
+					empty-border-color="LightGray"
+					display="flex"
+				>
+					<Text font="normal 600 18px/1.5 --fontFamily-googleInter" color="--light" margin="0px 0px 0px 0px">
+						06
+					</Text>
+				</Box>
+				<Box
+					display="flex"
+					width="65%"
+					empty-min-width="64px"
+					empty-min-height="64px"
+					empty-border-width="1px"
+					empty-border-style="solid"
+					empty-border-color="LightGray"
+				>
+					<Text
+						font="--headline1"
+						color="--lightD1"
+						margin="0px 0px 0px 0px"
+						width="100%"
+						md-font="normal 700 52px/1.1 &quot;Inter&quot;, sans-serif"
+						sm-font="normal 700 38px/1.1 &quot;Inter&quot;, sans-serif"
+					>
+						Junior Warden
+					</Text>
+				</Box>
+			</Box>
+			<Box
+				flex-wrap="wrap"
+				margin="0px 0px 46px 0px"
+				empty-min-width="64px"
+				empty-min-height="64px"
+				empty-border-width="1px"
+				empty-border-style="solid"
+				empty-border-color="LightGray"
+				display="flex"
+			>
+				<Box
+					width="35%"
+					sm-width="20%"
+					empty-min-width="64px"
+					empty-min-height="64px"
+					empty-border-width="1px"
+					empty-border-style="solid"
+					empty-border-color="LightGray"
+					display="flex"
+				>
+					<Text font="normal 600 18px/1.5 --fontFamily-googleInter" color="--light" margin="0px 0px 0px 0px">
+						07
+					</Text>
+				</Box>
+				<Box
+					display="flex"
+					width="65%"
+					empty-min-width="64px"
+					empty-min-height="64px"
+					empty-border-width="1px"
+					empty-border-style="solid"
+					empty-border-color="LightGray"
+				>
+					<Text
+						font="--headline1"
+						color="--lightD1"
+						margin="0px 0px 0px 0px"
+						width="100%"
+						md-font="normal 700 52px/1.1 &quot;Inter&quot;, sans-serif"
+						sm-font="normal 700 38px/1.1 &quot;Inter&quot;, sans-serif"
+					>
+						Senior Warden
+					</Text>
+				</Box>
+			</Box>
+			<Box
+				flex-wrap="wrap"
+				margin="0px 0px 46px 0px"
+				empty-min-width="64px"
+				empty-min-height="64px"
+				empty-border-width="1px"
+				empty-border-style="solid"
+				empty-border-color="LightGray"
+				display="flex"
+			>
+				<Box
+					width="35%"
+					sm-width="20%"
+					empty-min-width="64px"
+					empty-min-height="64px"
+					empty-border-width="1px"
+					empty-border-style="solid"
+					empty-border-color="LightGray"
+					display="flex"
+				>
+					<Text font="normal 600 18px/1.5 --fontFamily-googleInter" color="--light" margin="0px 0px 0px 0px">
+						08
+					</Text>
+				</Box>
+				<Box
+					display="flex"
+					width="65%"
+					empty-min-width="64px"
+					empty-min-height="64px"
+					empty-border-width="1px"
+					empty-border-style="solid"
+					empty-border-color="LightGray"
+				>
+					<Text
+						font="--headline1"
+						color="--lightD1"
+						margin="0px 0px 0px 0px"
+						width="100%"
+						md-font="normal 700 52px/1.1 &quot;Inter&quot;, sans-serif"
+						sm-font="normal 700 38px/1.1 &quot;Inter&quot;, sans-serif"
+					>
+						Worshipful Master
 					</Text>
 				</Box>
 			</Box>
@@ -540,10 +675,10 @@ export default (() => {
 						md-font="500 20px/1.3 --fontFamily-googleInter"
 						sm-width="100%"
 					>
-						I also publish my work on Twitter where you can find my most recent posts.
+						We also publish a grain of information on social networks.
 						<br />
 						<br />
-						I enjoy researching and writing stories about the beauty world and its connection with culture. Specifically, I like writing about bizarre moments in the fashion world, new and ambitious designers, and some of the more unpopular aspects of makeup.
+						However, we would like to draw your attention: all the information provided on this website, as well as on our pages in social networks, pursues only one goal — the execution of the order of the Master of Masons. Don't expect to see the Truth here.
 					</Text>
 				</Box>
 			</Box>
@@ -603,7 +738,7 @@ export default (() => {
 					empty-min-height="64px"
 				>
 					<Text font="--headline4" color="--lightD1" margin="0px 0px 0px 0px" md-font="500 20px/1.3 --fontFamily-googleInter">
-						I run a blog on beauty and fashion called Piper N9NE.
+						Follow the white rabbit. He will lead you to the Light. Follow us. To see its source.
 					</Text>
 				</Box>
 			</Box>
@@ -630,12 +765,12 @@ export default (() => {
 					empty-border-style="solid"
 					lg-width="33.333%"
 				>
-					<Box height="0" margin="0 0 20px 0" padding-bottom="100%" background="url(https://images.unsplash.com/photo-1535361109-b8fa03822e9d?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=2000) 50% 0/cover no-repeat" />
+					<Box height="0" margin="0 0 20px 0" padding-bottom="100%" background="url(https://img.welt.de/img/politik/mobile101451767/6382503057-ci102l-w1024/Bush-Putin-2001-apec-shanghai-2-DW-Vermischtes-Shanghai-jpg.jpg) 50% 0/cover no-repeat" />
 					<Text as="h3" font="--base" margin="5px 0 0px 0" color="--lightD1">
 						Town & Country
 					</Text>
 					<Text as="p" margin="20px 0 5px 0" color="--lightD2">
-						Couture Trends to Try Now
+						Russian Federation, Moscow, Nothern Butovo
 					</Text>
 				</Box>
 				<Box
@@ -649,12 +784,12 @@ export default (() => {
 					padding="16px 16px 16px 16px"
 					lg-width="33.333%"
 				>
-					<Box height="0" margin="0 0 20px 0" padding-bottom="100%" background="url(https://images.unsplash.com/photo-1549298222-1c31e8915347?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&h=2000) 50% 0/cover no-repeat" />
+					<Box height="0" margin="0 0 20px 0" padding-bottom="100%" background="url(https://hsto.org/files/ea9/a3d/4ac/ea9a3d4acf7445e291fc2acf8b80628c.jpg) 50% 0/cover no-repeat" />
 					<Text font="--base" margin="5px 0 0px 0" color="--lightD1" as="h3">
-						W Magazine
+						Direction
 					</Text>
 					<Text color="--lightD2" as="p" margin="20px 0 5px 0">
-						A Visual Diary of Couture Week
+						Cryptography. The Method of trensonity.
 					</Text>
 				</Box>
 				<Box
@@ -668,12 +803,12 @@ export default (() => {
 					empty-border-color="LightGray"
 					lg-width="33.333%"
 				>
-					<Box height="0" margin="0 0 20px 0" padding-bottom="100%" background="url(https://images.unsplash.com/photo-1450297166380-cabe503887e5?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=2000) 50% 0/cover no-repeat" />
+					<Box height="0" margin="0 0 20px 0" padding-bottom="100%" background="url(https://avatars.mds.yandex.net/get-zen_doc/4432928/pub_6123c1fa134e9202756e54f2_6123c27b0e49f4124c1c39c3/scale_1200) 50% 0/cover no-repeat" />
 					<Text as="h3" font="--base" margin="5px 0 0px 0" color="--lightD1">
-						Refinery
+						Access level
 					</Text>
 					<Text as="p" margin="20px 0 5px 0" color="--lightD2">
-						How Archive Fashion Came to Dominate TikTok
+						54 degree — all people. We are partly open for all.
 					</Text>
 				</Box>
 			</Box>
@@ -696,7 +831,7 @@ export default (() => {
 				sm-text-align="center"
 				margin="0px 10% 0px 0px"
 			>
-				Let's work tgther!
+				Do not look. Do see.
 			</Link>
 		</Section>
 		<Section padding="90px 0 90px 0" sm-padding="74px 0 74px 0" quarkly-title="Footer">
@@ -715,7 +850,7 @@ export default (() => {
 				display="flex"
 			>
 				<Text color="--light" sm-text-align="center" margin="0px 0px 0px 0px" font="--base">
-					Melly Franklin
+					Nikolin Sevenny, 33 degree
 				</Text>
 			</Box>
 			<Box
@@ -738,9 +873,9 @@ export default (() => {
 					font="--base"
 					color="--light"
 				>
-					+1 (705) 177-58-55
+					8 (977) 744-??-23
 					<br />
-					melly@fbfranklin.com
+					upwahevsf5t8@mail.ru
 				</Text>
 			</Box>
 			<Box
@@ -763,9 +898,9 @@ export default (() => {
 					sm-text-align="center"
 					md-text-align="center"
 				>
-					123 Demo Street New York,{" "}
+					Russian Federation, Moscow,{" "}
 					<br />
-					NY 12345
+					Nothern Butovo
 				</Text>
 			</Box>
 		</Section>
