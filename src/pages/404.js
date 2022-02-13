@@ -10,11 +10,11 @@ export default (() => {
 		<GlobalQuarklyPageStyles pageUrl={"404"} />
 		<Helmet>
 			<title>
-				Merry Franklin — writer, editor & consultant.
+				Cryptomasonry of Northern Butovo
 			</title>
-			<meta name={"description"} content={"I can help you choose the right image and present yourself correctly."} />
-			<meta property={"og:title"} content={"Merry Franklin — writer, editor & consultant."} />
-			<meta property={"og:description"} content={"I can help you choose the right image and present yourself correctly."} />
+			<meta name={"description"} content={"We are cryptomasons of Northern Butovo. By order of Master Mason, we bring Light into Darkness and share Technology with people."} />
+			<meta property={"og:title"} content={"Cryptomasonry of Northern Butovo"} />
+			<meta property={"og:description"} content={"We are cryptomasons of Northern Butovo. By order of Master Mason, we bring Light into Darkness and share Technology with people."} />
 			<meta property={"og:image"} content={"https://uploads.quarkly.io/60da14fa3f4eb1001ea27689/images/og-image-portfolio.png?v=2021-10-07T09:34:08.202Z"} />
 			<link rel={"shortcut icon"} href={"https://uploads.quarkly.io/60da14fa3f4eb1001ea27689/images/32x32.png?v=2021-10-07T09:34:24.098Z"} type={"image/x-icon"} />
 			<link rel={"apple-touch-icon"} href={"https://uploads.quarkly.io/60da14fa3f4eb1001ea27689/images/152x152.png?v=2021-10-07T09:34:31.980Z"} />
